@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="52cm" height="20cm" viewBox="35 18 1034 386" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="507" y="225" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="507" y="225" width="89.6" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="551.8" y="247">Benutzer</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="178" y="225" width="74.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="178" y="225" width="74.2" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="215.1" y="247">Rechte</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="333,243.17 379.95,215 426.9,243.17 379.95,271.34 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="333,243.17 379.95,215 426.9,243.17 379.95,271.34 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="327" y="237.17">n</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="432.9" y="237.17">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="379.95" y="247.17">besitzt</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="427.888,243.17 467.444,243.17 467.444,243 507,243 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="333,243.17 293.105,243.17 293.105,243 253.209,243 "/>
+  <g>
+    <rect style="fill: #ffffff" x="794" y="225" width="81.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="794" y="225" width="81.9" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="834.95" y="247">Termine</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="659,242.93 690.55,224 722.1,242.93 690.55,261.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="659,242.93 690.55,224 722.1,242.93 690.55,261.86 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="653" y="236.93">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="728.1" y="236.93">n</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="690.55" y="246.93">hat</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.606,243 627.807,243 627.807,242.93 658.008,242.93 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="723.092,242.93 758.546,242.93 758.546,243 794,243 "/>
+  <g>
+    <polygon style="fill: #ffffff" points="655,378.55 694.25,355 733.5,378.55 694.25,402.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="655,378.55 694.25,355 733.5,378.55 694.25,402.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="649" y="372.55">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="739.5" y="372.55">n</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="694.25" y="382.55">sieht</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="551.8,261 553,261 553,378.55 655,378.55 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="734.501,378.55 830,378.55 830,261 834.95,261 "/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="82.7" cy="181" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="82.7" cy="181" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="82.7" y="185">ID</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="75" y1="189" x2="90.4" y2="189"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="106.176" y1="191.839" x2="178" y2="225"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="71.4" cy="240" rx="35.4" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="71.4" cy="240" rx="35.4" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="71.4" y="244">Name</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="107.764" y1="240.759" x2="177.035" y2="242.205"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="396.7" cy="172" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="396.7" cy="172" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="396.7" y="176">ID</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="389" y1="180" x2="404.4" y2="180"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="380.2" cy="114" rx="66.2" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="380.2" cy="114" rx="66.2" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="380.2" y="118">Benutzername</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="448.4" cy="45" rx="35.4" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="448.4" cy="45" rx="35.4" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="448.4" y="49">Name</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="563.95" cy="37" rx="46.95" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="563.95" cy="37" rx="46.95" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="563.95" y="41">Vorname</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="630.25" cy="85" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="630.25" cy="85" rx="39.25" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="630.25" y="89">eMail</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="660.8" cy="159" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="660.8" cy="159" rx="50.8" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="660.8" y="163">Passwort</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="416.287" y1="184.728" x2="507.732" y2="224.05"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="403.52" y1="131.53" x2="526.527" y2="224.001"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="457.949" y1="63.2845" x2="541.876" y2="223.996"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="562.832" y1="55.9604" x2="552.918" y2="224.04"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="620.061" y1="103.184" x2="551.8" y2="225"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="638.786" y1="175.965" x2="576.455" y2="224"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="878.7" cy="122" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="878.7" cy="122" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="878.7" y="126">ID</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="871" y1="130" x2="886.4" y2="130"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1005.35" cy="210" rx="62.35" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1005.35" cy="210" rx="62.35" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1005.35" y="214">Anfangszeit</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="995.95" cy="267" rx="46.95" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="995.95" cy="267" rx="46.95" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="995.95" y="271">Endzeit</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="927.2" cy="369" rx="66.2" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="927.2" cy="369" rx="66.2" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="927.2" y="373">Beschreibung</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="957.55" cy="316" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="957.55" cy="316" rx="31.55" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="957.55" y="320">Ort</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="955.25" cy="156" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="955.25" cy="156" rx="39.25" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="955.25" y="160">Titel</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="872.022" y1="140.471" x2="841.821" y2="223.998"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="933.421" y1="171.787" x2="861.222" y2="224.001"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="952.589" y1="220.218" x2="876.895" y2="234.877"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="951.209" y1="260.331" x2="876.9" y2="249.253"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="934.892" y1="302.509" x2="866.872" y2="262.007"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="913.681" y1="350.535" x2="848.846" y2="261.98"/>
+</svg>
