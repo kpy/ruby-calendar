@@ -1,12 +1,44 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
-  <title>RubyCalendar</title>
+  <title>Blog</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+  <link rel="stylesheet" type="app/assets/stylesheets" href="nav.css">
+  
+  <nav id="topNav">
+
+        	<ul>
+
+          		<li><a href="#" title="Termine">Termine</a>
+
+                	<ul>
+						<li><a href="#" title="Termine ansehen">Termine ansehen</a></li>
+
+                    	<li><a href="Hinzufuegen.html.erb" title="Hinzufügen">Hinzufügen</a></li>
+
+                        <li><a href="#" title="Bearbeiten">Bearbeiten</a></li>
+
+                        <li><a href="#" title="Löschen">Löschen</a></li>
+
+                        <li><a href="#" title="Freigeben">Freigeben</a></li>
+
+                        <li class="last"><a href="#" title="Sub Nav Link 5">Sub Nav Link 5</a></li>
+
+                    </ul>        
+
+                </li>
+
+              <li><a href="#" title="Nav Link 1">Nav Link 3</a></li>
+
+              <li class="last"><a href="#" title="Nav Link 1">Nav Link 5</a></li>
+
+          </ul>
+
+        </nav>
 </head>
-<body>
+<body class="no-js">
 
 <%= yield %>
 
